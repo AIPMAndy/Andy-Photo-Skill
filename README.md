@@ -1,113 +1,251 @@
-# Andy-Photo-Skill
+# Andy Photo Skill
 
-> 15 个审美 Skill 库：把普通照片和海报变高级。
-> 核心 11 + 扩展 4，按你的内容方向挑，不要全部装一遍。
+**English** | [简体中文](README.zh-CN.md)
 
-这个仓库**不是 Skill 再分发**，是一个**精选索引**——所有 Skill 都归属原作者。
-发布前请先看 [CHECKLIST.md](CHECKLIST.md) 的 LICENSE 核查；分享时先看 [SHARE.md](SHARE.md)。
+> **Pick the 3 that make your posts actually pop.**
+> A hand-tested shortlist of 15 aesthetic AI Skills — so you stop scrolling
+> and start shipping posters, zines, and covers that look intentional.
 
----
+[![Stars](https://img.shields.io/github/stars/AIPMAndy/Andy-Photo-Skill?style=flat)](https://github.com/AIPMAndy/Andy-Photo-Skill/stargazers)
+[![License: MIT (index)](https://img.shields.io/badge/license-MIT_(index)-blue.svg)](LICENSE)
+[![Skills](https://img.shields.io/badge/skills-15-orange.svg)]()
+[![Updated](https://img.shields.io/badge/updated-2026--08-green.svg)]()
 
-## 3 秒决策
-
-| 你主要做 | 先装这 3 个 |
-| --- | --- |
-| 醒觉 · 人文 · 情绪 · 旅行 | `gc-minimal-zine-poster` · `photo-relic-editorial` · `scene-distillation-zine-v1-3` |
-| AI · 科技 · 工具评测 | `kimi-inspired-poster` · `pixel-style-poster-skill` · `tait-crt-interface-skill` |
-| 视频 / 小红书封面 · 强视觉 | `qiaomu-mondo-poster-design` · `dreamcore-collage-poster` · `pixel-style-poster-skill` |
-| 旅行 · 生活照片升级 | `travel-photo-abstraction` · `photo-relic-editorial` · `scenes-gathered-zine-v1-3` |
-
-> 一行一条场景。如果 4 行都不命中，往下看完整 11 + 4。
+<p align="center">
+  <img src="docs/images/social-preview.png" alt="Andy Photo Skill — 15 aesthetic Skills, hand-tested, pick 3" width="100%"/>
+</p>
 
 ---
 
-## 核心 11
+## What this is
 
-按"高级极简 → 人文再创作 → 强视觉输出"递进排列。
+A **curated index** of 15 third-party GitHub Skills for posters, zines, and
+photo-driven social cards. Every Skill is owned by its original author.
+This repo ships no code — it ships **a list, organized by what you're trying to make.**
 
-### 高级极简 · ZINE · Editorial
+- **11 core** Skills you reach for every week.
+- **4 extended** Skills for niche briefs (CRT, dreamcore, doodle, GitHub digest).
+- **No skill is permitted to be a “wrapped GPT prompt”** — see
+  [CONTRIBUTING.md](CONTRIBUTING.md) for the 5-rule gate.
 
-1. **[gc-minimal-zine-poster](https://github.com/LiamGvchi/gc-minimal-zine-poster)** —— 大面积留白 + 单色点缀的金句海报 / 醒觉封面。`极简` `ZINE`
-2. **[photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial)** —— 真实照片 + 抽象编辑记忆面板，做"人文感 + AI 感"的桥接内容。`照片` `杂志`
-3. **[photo-relic-editorial](https://github.com/wnby/photo-relic-editorial)** —— 照片版画化、纸感化、记忆化。耐看的人生 / 家庭 / 旅行纪念图。`版画` `纸感`
-
-### 人文照片再创作 · 情绪提炼
-
-4. **[photo-revival](https://github.com/dacnay816y62-hub/photo-revival)** —— 普通照片 → 白纸上手绘诗。柔和的人像 / 日常表达。`手绘` `诗性`
-5. **[scenes-gathered-zine-v1-3](https://github.com/Zeejay0/gathered-scenes-zine-skill)** —— 保留原图作锚点，外面长出插画 / 撕纸 / 视觉重组。`ZINE` `撕纸`
-6. **[scene-distillation-zine-v1-3](https://github.com/Zeejay0/gathered-scenes-zine-skill)** —— 提炼情绪 / 关系 / 隐喻再重构（与 #5 同仓库）。`情绪` `重构`
-
-### 强视觉 · 设计感 · 海报
-
-7. **[pixel-style-poster-skill](https://github.com/v92388375-gif/pixel-style-poster-skill)** —— 细点阵 / 印刷感 / 复古数字（非游戏像素）。`点阵` `印刷`
-8. **[kimi-inspired-poster](https://github.com/Fannie0715/kimi-inspired-poster)** —— 计算感 / K3 风格，科技感强。`科技` `K3`
-9. **[qiaomu-mondo-poster-design](https://github.com/joeseesun/qiaomu-mondo-poster-design)** —— Mondo 大师海报风，一句话出图，视觉冲击力强。`Mondo` `大师`
-10. **[github-trending-wan-skill](https://github.com/wwwzhouhui/skills_collection/tree/main/github-trending-wan-skill)** —— 自动抓 GitHub Trending 做成中文海报日报。`GitHub` `日报`
-11. **[eachlabs/skills](https://github.com/eachlabs/skills)** —— Skill 合集（不是单 Skill），当素材库和灵感源。`合集` `素材库`
+You are not installing 15 Skills. You are **picking 3**, in under three seconds.
 
 ---
 
-## 扩展 4
+## 3-second decision
 
-第二批收，补强覆盖面。
+You already know what you publish. Pick the lane that matches and grab
+the `LEAD` first.
 
-- **[travel-photo-abstraction](https://github.com/Evianis/travel-photo-abstraction)** —— 旅行照片抽象化，提炼结构 / 色彩 / 空间关系。`旅行` `抽象`
-- **[heytea-style](https://github.com/Hchen1218/heytea-style)** —— 真实物体 + 儿童涂鸦 + 歪手写字 + 留白。`涂鸦` `手写`
-- **[tait-crt-interface-skill](https://github.com/TaiT-tt/tait-crt-interface-skill)** —— CRT 复古终端 / 扫描线 / 早期电脑 UI。`CRT` `复古`
-- **[dreamcore-collage-poster](https://github.com/AndrwewHan/dreamcore-collage-poster)** —— 梦核 / 拼贴 / JPEG 感 / 超现实。`梦核` `拼贴`
+<p align="center">
+  <img src="docs/images/decision-matrix.png" alt="4 lanes × 3 skills each — pick by content direction" width="100%"/>
+</p>
 
----
+| You make                       | Lead                | Pair                          |
+| ------------------------------ | ------------------- | ----------------------------- |
+| Minimal posters, zine covers   | `gc-minimal-zine-poster`  | `photo-relic-editorial`       |
+| Photo-driven editorials        | `photo-relic-editorial`    | `photo-abstract-editorial`    |
+| Strong posters / video covers  | `qiaomu-mondo-poster`      | `pixel-style-poster-skill`    |
+| Travel / lifestyle upgrades    | `travel-photo-abstraction` | `heytea-style`               |
 
-## 表格速查
-
-| # | 名称 | 风格 | 适合 |
-| --- | --- | --- | --- |
-| 1 | gc-minimal-zine-poster | 极简 · ZINE | 金句海报 · 醒觉封面 |
-| 2 | photo-abstract-editorial | 照片 · 杂志 | 人文 · 高级感图文 |
-| 3 | photo-relic-editorial | 版画 · 纸感 | 人生 · 旅行纪念 |
-| 4 | photo-revival | 手绘 · 诗性 | 人像 · 日常 |
-| 5 | scenes-gathered-zine-v1-3 | ZINE · 撕纸 | 旅行 · 家庭 · 日常 |
-| 6 | scene-distillation-zine-v1-3 | 情绪 · 重构 | 醒觉 · 记忆 · 关系 |
-| 7 | pixel-style-poster-skill | 点阵 · 印刷 | AI · 系列封面 |
-| 8 | kimi-inspired-poster | 科技 · K3 | AI 产品 · 模型评测 |
-| 9 | qiaomu-mondo-poster-design | Mondo · 大师 | 视频封面 · 观点海报 |
-| 10 | github-trending-wan-skill | GitHub · 日报 | AI 资讯号 · 工具号 |
-| 11 | eachlabs/skills | 合集 · 素材库 | 找灵感 · 深入测试 |
-| 12 | travel-photo-abstraction | 旅行 · 抽象 | 旅行 · 城市 · 建筑 |
-| 13 | heytea-style | 涂鸦 · 手写 | 日常 · 饮食 · 小红书 |
-| 14 | tait-crt-interface-skill | CRT · 复古 | 极客 · 科技海报 |
-| 15 | dreamcore-collage-poster | 梦核 · 拼贴 | 高情绪 · 超现实 |
-
-> 没有"是否可商用"列——这些是别人开源的 Skill，LICENSE 各不相同。请逐个点开原作者仓库核查；本仓库**不做再分发**。
+Pick `LEAD`, install it, ship a poster. Add the `PAIR` only when the
+first one runs out of gas.
 
 ---
 
-## 收藏清单
+## How it works
 
-直接复制保存：
+Three steps. Ninety seconds. Zero config.
 
-```text
-1.  gc-minimal-zine-poster            https://github.com/LiamGvchi/gc-minimal-zine-poster
-2.  photo-abstract-editorial          https://github.com/ZzzLc0405/photo-abstract-editorial
-3.  photo-relic-editorial             https://github.com/wnby/photo-relic-editorial
-4.  photo-revival                     https://github.com/dacnay816y62-hub/photo-revival
-5.  scenes-gathered-zine-v1-3         https://github.com/Zeejay0/gathered-scenes-zine-skill
-6.  scene-distillation-zine-v1-3      https://github.com/Zeejay0/gathered-scenes-zine-skill
-7.  pixel-style-poster-skill          https://github.com/v92388375-gif/pixel-style-poster-skill
-8.  kimi-inspired-poster              https://github.com/Fannie0715/kimi-inspired-poster
-9.  qiaomu-mondo-poster-design        https://github.com/joeseesun/qiaomu-mondo-poster-design
-10. github-trending-wan-skill         https://github.com/wwwzhouhui/skills_collection/tree/main/github-trending-wan-skill
-11. eachlabs/skills                   https://github.com/eachlabs/skills
-12. travel-photo-abstraction          https://github.com/Evianis/travel-photo-abstraction
-13. heytea-style                      https://github.com/Hchen1218/heytea-style
-14. tait-crt-interface-skill          https://github.com/TaiT-tt/tait-crt-interface-skill
-15. dreamcore-collage-poster          https://github.com/AndrwewHan/dreamcore-collage-poster
+<p align="center">
+  <img src="docs/images/workflow.png" alt="Pick 3 → Drop in your AI agent → Send content" width="100%"/>
+</p>
+
+```bash
+# 1. Clone the upstream repo (any of the 15)
+git clone https://github.com/LiamGvchi/gc-minimal-zine-poster
+cd gc-minimal-zine-poster
+
+# 2. Point your AI agent at the skill folder
+#    (Claude Code, Codex, Kimi, or any compatible agent)
+
+# 3. Send your content
 ```
 
+```text
+> Make me a poster for "“我决定把周三留给自己”"
+> using the skill files in this folder.
+```
+
+The agent reads the Skill's `SKILL.md`, picks up its prompt and refs,
+and walks you to a finished poster. No API key juggling, no env setup
+beyond what your agent already needs.
+
 ---
 
-## 进一步阅读
+## The full set
 
-- [SHARE.md](SHARE.md) —— 分享话术三版 + 合规边界
-- [CHECKLIST.md](CHECKLIST.md) —— 15 个仓库 LICENSE 核查清单
-- [CONTRIBUTING.md](CONTRIBUTING.md) —— 如何推荐新的 Skill 进这个清单
+All 15, sorted by the kind of work they make good.
+
+<p align="center">
+  <img src="docs/images/style-grid.png" alt="All 15 Skills in 3 columns: Minimal · Zine / Strong · Poster / Meta · Collections" width="100%"/>
+</p>
+
+### Minimal · Zine  *(lines, paper, breathing room)*
+
+| #  | Skill                                       | Style tags              | Best for                                  |
+| -- | ------------------------------------------- | ----------------------- | ----------------------------------------- |
+| 1  | [gc-minimal-zine-poster][s1]                | `极简` · `ZINE`         | One-line posters, quiet covers             |
+| 2  | [photo-abstract-editorial][s2]              | `照片` · `杂志`         | Photo + abstract edits, editorial mood     |
+| 3  | [photo-relic-editorial][s3]                 | `版画` · `纸感`         | Family / travel memory, archival feel      |
+| 4  | [photo-revival][s4]                         | `手绘` · `诗性`         | Hand-drawn poem, soft portraits            |
+| 5  | [scenes-gathered-zine-v1-3][s5]             | `ZINE` · `撕纸`         | Photo anchor + torn-paper art around it    |
+| 6  | [scene-distillation-zine-v1-3][s5]          | `情绪` · `重构`         | Mood / relation / metaphor, rebuilt       |
+| 7  | [travel-photo-abstraction][s7]              | `旅行` · `抽象`         | Travel photos → structure / color / space  |
+
+### Strong · Poster  *(punch the eye)*
+
+| #  | Skill                                       | Style tags              | Best for                                  |
+| -- | ------------------------------------------- | ----------------------- | ----------------------------------------- |
+| 8  | [qiaomu-mondo-poster-design][s8]            | `Mondo` · `大师`        | Video thumbnails, strong-opinion posters   |
+| 9  | [pixel-style-poster-skill][s9]              | `点阵` · `印刷`         | Retro digital, AI-product covers          |
+| 10 | [kimi-inspired-poster][s10]                 | `科技` · `K3`           | Tech / model reviews, strong vibe         |
+| 11 | [github-trending-wan-skill][s11]            | `GitHub` · `日报`       | GitHub Trending → daily CN poster         |
+| 12 | [heytea-style][s12]                         | `涂鸦` · `手写`         | Daily food, doodle, Xiaohongshu           |
+| 13 | [tait-crt-interface-skill][s13]             | `CRT` · `复古`          | Geek / retro tech poster                  |
+| 14 | [dreamcore-collage-poster][s14]             | `梦核` · `拼贴`         | High-mood, surreal, dreamcore             |
+
+### Meta · Collections
+
+| #  | Skill                                       | Style tags              | Use as                                    |
+| -- | ------------------------------------------- | ----------------------- | ----------------------------------------- |
+| 15 | [eachlabs/skills][s15]                      | `合集` · `素材库`       | A meta-library, not a single Skill        |
+
+[s1]: https://github.com/LiamGvchi/gc-minimal-zine-poster
+[s2]: https://github.com/ZzzLc0405/photo-abstract-editorial
+[s3]: https://github.com/wnby/photo-relic-editorial
+[s4]: https://github.com/dacnay816y62-hub/photo-revival
+[s5]: https://github.com/Zeejay0/gathered-scenes-zine-skill
+[s7]: https://github.com/Evianis/travel-photo-abstraction
+[s8]: https://github.com/joeseesun/qiaomu-mondo-poster-design
+[s9]: https://github.com/v92388375-gif/pixel-style-poster-skill
+[s10]: https://github.com/Fannie0715/kimi-inspired-poster
+[s11]: https://github.com/wwwzhouhui/skills_collection/tree/main/github-trending-wan-skill
+[s12]: https://github.com/Hchen1218/heytea-style
+[s13]: https://github.com/TaiT-tt/tait-crt-interface-skill
+[s14]: https://github.com/AndrwewHan/dreamcore-collage-poster
+[s15]: https://github.com/eachlabs/skills
+
+---
+
+## Who this is for
+
+**Creators** publishing 1–3 visual posts a week who want them to look
+intentional instead of generic-AI.
+
+**AI builders** wiring a coding agent (Claude Code · Codex · Kimi · 通用 Agents)
+to generate cover art, zines, or social cards on demand.
+
+**Editorial accounts** that have to ship a recurring column with a consistent
+visual voice and need a small, dependable set to choose from.
+
+If you publish zero visual content, this is probably not for you — you
+will not get value from any of these Skills.
+
+---
+
+## What this is *not*
+
+- **Not** a Skill redistributor. Every Skill lives at its author's repo.
+- **Not** an aggregator of 100 random prompts. Volume here is the enemy of taste.
+- **Not** a substitute for editorial direction. A Skill is a vocabulary, not a draft.
+- **Not** fully commercial-ready out of the box. Each upstream Skill carries
+  its own LICENSE — see [CHECKLIST.md](CHECKLIST.md) before any paid use.
+
+---
+
+## Use with your AI agent
+
+The Skills in this list are designed to be dropped into a coding agent's
+context. Concretely, after `git clone`:
+
+| Agent                                                  | Where to send it                                       |
+| ------------------------------------------------------ | ------------------------------------------------------ |
+| **Claude Code**                                        | Put the folder under your project root; mention it.    |
+| **Codex** (CLI / IDE)                                  | Pass the folder path with `--skill` or in the prompt.  |
+| **Kimi / 通用 Agents / Hermes**                        | Paste the path or `SKILL.md` excerpt into the prompt.  |
+
+A minimal first prompt:
+
+```text
+Use the aesthetic rules, prompt templates, and reference style described
+in ./gc-minimal-zine-poster/SKILL.md to design a 1024×1024 poster
+on the topic "“我把周三留给自己”".
+```
+
+The agent does the rest — prompt assembly, refs, iteration. If a Skill
+makes claims you don't like, edit its `SKILL.md` and the agent picks
+up your version.
+
+---
+
+## Stewardship
+
+This index is **audited, not scraped.**
+
+- **Quarterly re-audit**: every 90 days, every upstream repo is re-checked
+  for license, commit activity, and “does it still produce.”
+- **Hard rules for inclusion**: aesthetic distinctness, reproducibility,
+  recent commit, attribution, declared LICENSE — see [CONTRIBUTING.md](CONTRIBUTING.md).
+- **Soft archive rule**: any Skill with zero commit activity for 12
+  months gets a one-line footnote, not a silent delete. Curation is
+  legible over time.
+
+State of the audit as of this release:
+
+| # | Upstream                            | Audit status    | Notable                                  |
+| - | ----------------------------------- | --------------- | ---------------------------------------- |
+| 1 | gc-minimal-zine-poster              | active          | listed upstream LICENSE not yet re-checked |
+| 2 | photo-abstract-editorial            | active          | —                                        |
+| … | …                                   | …               | …                                        |
+
+For the audit table, see [CHECKLIST.md](CHECKLIST.md).
+
+---
+
+## Roadmap
+
+- [x] 15-Skill audit, public index, EN + CN README
+- [ ] Quarterly re-audit (next: 2026-11)
+- [ ] LICENSE column fully filled in for all 15 upstream repos
+- [ ] Cross-link between complementary Skills (LEAD ↔ PAIR)
+- [ ] `weekly-pick` digest (RSS / email)
+
+---
+
+## Contributing
+
+Want to recommend a Skill? See [CONTRIBUTING.md](CONTRIBUTING.md) for the
+inclusion criteria and PR template. Inclusion is gated on the 5-rule
+check — taste beats volume.
+
+---
+
+## License
+
+The **index text** (this README and the four `.md` docs in this repo)
+is MIT — see [LICENSE](LICENSE).
+
+**Upstream Skills retain their original licenses.** Before any
+commercial use, open each upstream repo and check the top of its
+`LICENSE` file. The [CHECKLIST.md](CHECKLIST.md) cheat sheet exists
+to make this step fast.
+
+---
+
+## Acknowledgements
+
+To every upstream author who put their taste in public. This repo is
+just a reading list; the work is theirs.
+
+To the few who made the curation possible — you know who you are.
