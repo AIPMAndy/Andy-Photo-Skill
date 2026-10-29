@@ -250,6 +250,12 @@ check — taste beats volume.
 
 <!-- andy-author-card:end -->
 
+## 关于本仓库的范围
+
+本仓库是一个**精选索引**（curated list），不包含上游 Skill 的源代码或资产。
+所有 Skill 的版权和许可归属原作者；使用任何 Skill 前请查阅原作者仓库 LICENSE。
+本 MIT License 仅适用于本仓库内的清单文本（README.md / SHARE.md / CONTRIBUTING.md / CHECKLIST.md）以及未来可能新增的索引类内容。
+
 ## License
 
 The **index text** (this README and the four `.md` docs in this repo)
